@@ -1,0 +1,27 @@
+var NAVTREEINDEX2 =
+{
+"title_xml_element_page.html#sectionRemarks":[3,1,4,4,2,1],
+"titles_xml_element_page.html":[3,1,4,4],
+"titles_xml_element_page.html#sectionDescription":[3,1,4,4,0],
+"titles_xml_element_page.html#sectionRemarks":[3,1,4,4,1],
+"video_manager_xml_element_page.html":[3,1,3],
+"video_manager_xml_element_page.html#sectionDescription":[3,1,3,0],
+"video_manager_xml_element_page.html#sectionExample":[3,1,3,2],
+"video_manager_xml_element_page.html#sectionRemarks":[3,1,3,1],
+"video_object_xml_element_page.html":[3,1,4,4,2,3],
+"video_object_xml_element_page.html#sectionDescription":[3,1,4,4,2,3,0],
+"video_object_xml_element_page.html#sectionExample":[3,1,4,4,2,3,1],
+"video_object_xml_element_page.html#sectionRemarks":[3,1,4,4,2,3,2],
+"video_stream_xml_element_page.html":[3,1,3,3,1,2,3],
+"video_stream_xml_element_page.html":[3,1,4,3,1,2,3],
+"video_stream_xml_element_page.html":[3,1,4,4,2,3,4],
+"video_stream_xml_element_page.html":[3,1,4,4,2,4,1,3],
+"video_stream_xml_element_page.html#sectionDescription":[3,1,4,4,2,3,4,0],
+"video_stream_xml_element_page.html#sectionDescription":[3,1,3,3,1,2,3,0],
+"video_stream_xml_element_page.html#sectionDescription":[3,1,4,4,2,4,1,3,0],
+"video_stream_xml_element_page.html#sectionDescription":[3,1,4,3,1,2,3,0],
+"video_stream_xml_element_page.html#sectionExample":[3,1,4,3,1,2,3,1],
+"video_stream_xml_element_page.html#sectionExample":[3,1,3,3,1,2,3,1],
+"video_stream_xml_element_page.html#sectionExample":[3,1,4,4,2,4,1,3,1],
+"video_stream_xml_element_page.html#sectionExample":[3,1,4,4,2,3,4,1]
+};

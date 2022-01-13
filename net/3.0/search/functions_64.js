@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['dispose',['Dispose',['../class_primo_software_1_1_d_v_d_builder_1_1_d_v_d_builder.html#a6e2d745cdb7a7b983f861ed6a9a541a7',1,'PrimoSoftware::DVDBuilder::DVDBuilder.Dispose()'],['../class_primo_software_1_1_d_v_d_builder_1_1_subpicture_encoder.html#a6e2d745cdb7a7b983f861ed6a9a541a7',1,'PrimoSoftware::DVDBuilder::SubpictureEncoder.Dispose()'],['../class_primo_software_1_1_d_v_d_builder_1_1_v_r_1_1_video_recorder.html#a6e2d745cdb7a7b983f861ed6a9a541a7',1,'PrimoSoftware::DVDBuilder::VR::VideoRecorder.Dispose()'],['../class_primo_software_1_1_d_v_d_builder_1_1_v_r_1_1_v_r_device.html#a6e2d745cdb7a7b983f861ed6a9a541a7',1,'PrimoSoftware::DVDBuilder::VR::VRDevice.Dispose()'],['../class_primo_software_1_1_d_v_d_builder_1_1_v_r_1_1_v_r_device_plugin.html#a6e2d745cdb7a7b983f861ed6a9a541a7',1,'PrimoSoftware::DVDBuilder::VR::VRDevicePlugin.Dispose()']]]
+];

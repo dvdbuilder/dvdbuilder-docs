@@ -1,0 +1,1204 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--
+  <gen:info>
+    <gen:name>Google Sitemap Generator</gen:name>
+    <gen:version>1.0.0.0</gen:version>
+    <gen:date>2017-01-23T01:50:39Z</gen:date>
+  </gen:info>
+-->
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/stream_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/subpicture_palette_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_v_r_1_1_video_recorder.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespaceprimo_1_1dvdbuilder_1_1_generic_error.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/error_handling_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/search.php</loc>
+  <lastmod>2016-01-24T15:19:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/mask_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/title_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_v_r_1_1_optical_disc_device_config-members.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/hierarchy.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/pre_commands_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/chapters_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/color_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/search-config.php</loc>
+  <lastmod>2016-01-24T15:19:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/dir_ca6688b10d5f233ab68b2d3c1abf2501.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classes.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/dir_189fa3666e3a468b846fbb6de0725b6c.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/interface_primo_software_1_1_d_v_d_builder_1_1_input_data_stream_factory-members.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/titles_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/namespace_primo_software_1_1_d_v_d_builder.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespacemembers_vars.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/action_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_d_v_d_builder_status_event_args-members.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_v_r_1_1_file_system_device_config.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/functions_func.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/subpicture_streams_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/namespace_primo_software_1_1_d_v_d_builder_1_1_v_r.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespaceprimo_1_1dvdbuilder_1_1_subpicture_encoder_image_mask_color.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_v_r_1_1_file_system_device_config-members.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_d_v_d_builder_progress_event_args-members.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/command_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_v_r_1_1_title-members.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/subpicture_streams_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/video_object_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/_primo_reference_8h.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_d_v_d_builder_continue_event_args.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_v_r_1_1_file_system_device_config-members.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_d_v_d_builder-members.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/opcode_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_v_r_1_1_v_r_device_plugin-members.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespacemembers_enum.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/_d_v_d_builder_8h.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/functions.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/subpicture_stream_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/dir_f86087e8e06337a555d4625c4fef72d9.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/functions_evnt.html</loc>
+  <lastmod>2016-01-24T15:19:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/display_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespaceprimo_1_1license.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/mask_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/namespaces.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/annotated.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespaceprimo.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_error_info.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_v_r_1_1_v_r_device_plugin.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespaceprimo_1_1dvdbuilder_1_1_v_r.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/_release_notes.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/dir_9cc5dd33a3fe9cd2e703bb7fce8b9b1d.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_v_r_1_1_optical_disc_device_config-members.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespaceprimo_1_1license_1_1_license_status_flags.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/post_commands_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_d_v_d_builder.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespaces.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/dir_9ce36dcf9b8ddc41a1ea20ee5e016e3c.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/selection_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespaceprimo_1_1dvdbuilder_1_1_d_v_d_builder_error.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_d_v_d_builder.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/globals_func.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/audio_stream_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/search/search.idx</loc>
+  <lastmod>2016-01-24T15:19:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_v_r_1_1_title_enum-members.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/button_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_d_v_d_builder_callback.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/dvd_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_v_r_1_1_v_r_device-members.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/dvd_language_codes_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_v_r_1_1_v_r_device_plugin-members.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/chapter_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/background_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/dvd_project_file_main_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/stream_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/title_set_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/dir_976ab82d7918ee27a3d89dd932a2ae77.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/search-config.php</loc>
+  <lastmod>2016-01-24T15:19:43Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/_primo_license_8h.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespaceprimo_1_1dvdbuilder_1_1_v_r_1_1_video_recorder_error.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_error_info.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/namespacemembers_enum.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/menus_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/pre_commands_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_v_r_1_1_video_recorder-members.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_d_v_d_builder-members.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/dir_f7aeced15ff5eab0e2476937e86f4a04.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/menu_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/search-functions.php</loc>
+  <lastmod>2016-01-24T15:19:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_library.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/selection_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/chapters_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_d_v_d_builder_progress_event_args.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/video_manager_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_library-members.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespaceprimo_1_1dvdbuilder_1_1_v_r_1_1_v_r_device_plugin_error.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_v_r_1_1_v_r_device-members.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/video_stream_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/dir_feede40a05a9cb2b37e7066bf1899ec7.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/title_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/search-opensearch.php</loc>
+  <lastmod>2016-01-24T15:19:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespacemembers_eval.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/color_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/dvd_project_file_main_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/_object_management.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_v_r_1_1_title_enum.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/title_set_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/audio_streams_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/background_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/functions_func.html</loc>
+  <lastmod>2016-01-24T15:19:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_error_info-members.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_v_r_1_1_v_r_device.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespaceprimo_1_1dvdbuilder.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/interface_primo_software_1_1_d_v_d_builder_1_1_input_data_stream_factory.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/titles_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/action_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/search-opensearch.php</loc>
+  <lastmod>2016-01-24T15:19:43Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/hierarchy.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_error_info-members.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespaceprimo_1_1dvdbuilder_1_1_subpicture_encoder_error.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_v_r_1_1_optical_disc_device_config.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_v_r_1_1_v_r_device.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/first_play_commands_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/chapter_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_v_r_1_1_v_r_device_list-members.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/first_play_commands_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/post_commands_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/dir_1a6b613607f9f20aec463f8070b187b2.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_subpicture_encoder-members.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1license_1_1_license_info-members.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/namespace_primo_software.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/_d_v_d_video_recorder_8h.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_v_r_1_1_v_r_device_list.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_subpicture_encoder.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/namespacemembers.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/search/search.idx</loc>
+  <lastmod>2016-01-24T15:19:43Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/video_object_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_v_r_1_1_video_recorder-members.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/menu_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_d_v_d_builder_status_event_args.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_subpicture_encoder.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/opcode_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/pages.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1_reference-members.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_v_r_1_1_title.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/_release_notes.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/globals.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_d_v_d_builder_callback-members.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespaceprimo_1_1dvdbuilder_1_1_v_r_1_1_v_r_device_error.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_input_data_stream_factory-members.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/subpicture_stream_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1license_1_1_license_info.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_v_r_1_1_title.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/namespacemembers_eval.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/functions_prop.html</loc>
+  <lastmod>2016-01-24T15:19:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespacemembers.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_subpicture_encoder-members.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_input_data_stream_factory.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespaceprimo_1_1dvdbuilder_1_1_library.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespaceprimo_1_1dvdbuilder_1_1_d_v_d_builder_status.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/dir_13a35d26ea32bda0002cca7823945772.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1_reference.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/index.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/functions.html</loc>
+  <lastmod>2016-01-24T15:19:58Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/files.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/command_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespaceprimo_1_1dvdbuilder_1_1_v_r_1_1_v_r_device_type.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_v_r_1_1_video_recorder.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/search.php</loc>
+  <lastmod>2016-01-24T15:19:43Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/pages.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_v_r_1_1_title-members.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespaceprimo_1_1dvdbuilder_1_1_error_facility.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/video_manager_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_v_r_1_1_optical_disc_device_config.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/dir_3ea953eb8f51e8d7f7f69b2e53f79210.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/annotated.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/namespacemembers_func.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/audio_stream_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_v_r_1_1_file_system_device_config.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/classprimo_1_1dvdbuilder_1_1_v_r_1_1_v_r_device_plugin.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/class_primo_software_1_1_d_v_d_builder_1_1_d_v_d_builder_continue_event_args-members.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/menus_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/button_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/dir_9467f69d5112c3dd7417dc6f75d4ab7f.html</loc>
+  <lastmod>2016-01-24T15:19:42Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/dvd_language_codes_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/error_handling_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/classes.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/subpicture_palette_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/video_stream_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/dvd_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/search-functions.php</loc>
+  <lastmod>2016-01-24T15:19:43Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/index.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/net/3.3/audio_streams_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:57Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://doc.dvdbuilder.com/cpp/3.3/display_xml_element_page.html</loc>
+  <lastmod>2016-01-24T15:19:41Z</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.1</priority>
+</url>
+</urlset>
